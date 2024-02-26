@@ -1,0 +1,23 @@
+{
+  "customers": [
+    {
+      "id": "9749",
+      "name": "47",
+      "fullName": "Emma Watson",
+      "identifier": "79",
+      "address": "London",
+      "email": "kiuklj",
+      "contactNo": "423",
+      "": "Emmal"
+    },
+    {
+      "id": "9694",
+      "name": "132",
+      "fullName": "fathima Inshafa",
+      "identifier": "2314",
+      "address": "sfg",
+      "email": "ajdk",
+      "contactNo": "123"
+    }
+  ]
+}
